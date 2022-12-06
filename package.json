@@ -24,7 +24,7 @@
     "pusher-js": "^4.3.0",
     "vue": "^2.1.10",
     "vuex": "^2.4.0",
-    "webpack-livereload-plugin": "^0.11.0"
+    "webpack-livereload-plugin": "^3.0.2"
   },
   "dependencies": {}
 }
